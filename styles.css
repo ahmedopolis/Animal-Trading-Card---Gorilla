@@ -1,0 +1,52 @@
+#fullcontainer {
+    width: 320px;
+    height: auto;
+    border: lightgray 0.75px solid;
+    box-shadow: 5px 5px rgb(243, 243, 243);
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    margin: auto;
+}
+
+#mainheader {
+    margin-left: 10px;
+}
+
+#imageresize {
+    width: 300px;
+    height: auto;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+#textcontainer {
+    width: 278px;
+    height: auto;
+    border: lightgray 0.75px solid;
+    font-size: 10pt;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+#paragraph1 {
+    font-style: italic;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+span {
+    font-weight: bold;
+}
+
+#paragraph2 {
+    padding-bottom: 10px;
+}
+
+
+
